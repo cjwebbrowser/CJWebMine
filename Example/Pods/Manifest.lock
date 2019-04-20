@@ -1,0 +1,16 @@
+PODS:
+  - CJWebMine (0.1.0)
+
+DEPENDENCIES:
+  - CJWebMine (from `../`)
+
+EXTERNAL SOURCES:
+  CJWebMine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CJWebMine: 76671d115ddf0b1314ee1c9111fcf8a78a6d55c7
+
+PODFILE CHECKSUM: 129ca04cb9d3caa78fd4fd52b1dd1c51753c7d0e
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module CJWebMine {
+  umbrella header "CJWebMine-umbrella.h"
+
+  export *
+  module * { export * }
+}
