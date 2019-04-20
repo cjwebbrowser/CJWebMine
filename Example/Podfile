@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CJWebMine_Example' do
+  pod 'CJWebMine', :path => '../'
+
+  target 'CJWebMine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
